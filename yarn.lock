@@ -6998,10 +6998,10 @@ gatsby-theme-blog-core@^2.0.2:
     gatsby-transformer-sharp "^2.5.11"
     remark-slug "^5.1.2"
 
-gatsby-theme-buzzing@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-buzzing/-/gatsby-theme-buzzing-0.7.2.tgz#7ac79a94561d61777bed5b407e6256b9b4ae35bf"
-  integrity sha512-TEWu19gQ8SzZWXbhUoGIf7FR/PIWbmN7/uhs9zVozvYXiXqFw55sfmZyGYWRjRbRLC9CqXvwlmfKqEP9iUCgkA==
+gatsby-theme-buzzing@^0.7.3:
+  version "0.7.3"
+  resolved "https://registry.npmjs.org/gatsby-theme-buzzing/-/gatsby-theme-buzzing-0.7.3.tgz#41227ce584e9061816eb10580f7c5259b0de8773"
+  integrity sha512-JQKcwjIce4PWJa98DkP3zSA0IC8XPZ32PVR+rUEyTfk75bU0Le+cAAxOnK0H92uI4j8f9qD/xePO8VSJy/lEZg==
   dependencies:
     fs-extra "^9.0.1"
     gatsby-plugin-emotion "^4.3.10"
@@ -7028,7 +7028,11 @@ gatsby-theme-i18n@^1.0.4:
 
 gatsby-theme-timeline@^0.1.88:
   version "0.1.88"
+<<<<<<< HEAD
   resolved "https://registry.yarnpkg.com/gatsby-theme-timeline/-/gatsby-theme-timeline-0.1.88.tgz#5ceacf0aa327b2ee94319707dde972ab77b34ab6"
+=======
+  resolved "https://registry.npmjs.org/gatsby-theme-timeline/-/gatsby-theme-timeline-0.1.88.tgz#5ceacf0aa327b2ee94319707dde972ab77b34ab6"
+>>>>>>> b30d6fd07471afe0d1836689dad28d69fa15bd15
   integrity sha512-WlBZNmGbj8uA09X6z2l/T22cSNZ52N9WSXnZSQ+P/g4bRbo15wHPdwBBbzeeY/I/Aq6q4cOJN1BKQsaGw3JJyA==
   dependencies:
     "@theme-ui/prism" "^0.4.0-rc.5"

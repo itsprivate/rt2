@@ -17,7 +17,12 @@ if (isDev) {
       remote: `git@github.com:itsprivate/ts-test.git`,
       branch: `main`,
       // Only import the docs folder from a codebase.
-      patterns: ["data/reddit-top/**", "data/reddit-top-issues/**"],
+      patterns: [
+        "data/reddit-placeholder/1.json",
+        "data/tweet-placeholder/1.json",
+        "data/reddit-top/**",
+        "data/reddit-top-issues/**",
+      ],
     },
   });
 } else {
@@ -28,7 +33,12 @@ if (isDev) {
       remote: `https://github.com/itsprivate/ts.git`,
       branch: `main`,
       // Only import the docs folder from a codebase.
-      patterns: ["data/reddit-top/**", "data/reddit-top-issues/**"],
+      patterns: [
+        "data/reddit-placeholder/1.json",
+        "data/tweet-placeholder/1.json",
+        "data/reddit-top/**",
+        "data/reddit-top-issues/**",
+      ],
     },
   });
 }
@@ -91,7 +101,7 @@ module.exports = {
     title: `Buzzing on Reddit`,
     author: `Reddit`,
     description: `See what's buzzing on Reddit in your native language`,
-    keywords: ["Reddit", "buzzing", "Reddit中文"],
+    keywords: ["Reddit", "buzzing"],
     siteUrl: "https://reddit.buzzing.cc",
     menuLinks: [
       {
