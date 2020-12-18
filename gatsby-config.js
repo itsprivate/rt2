@@ -22,6 +22,7 @@ if (isDev) {
         "data/tweet-placeholder/1.json",
         "data/reddit-top/**",
         "data/reddit-top-issues/**",
+        "data/hn-placeholder/1.json",
       ],
     },
   });
@@ -36,6 +37,7 @@ if (isDev) {
       patterns: [
         "data/reddit-placeholder/1.json",
         "data/tweet-placeholder/1.json",
+        "data/hn-placeholder/1.json",
         "data/reddit-top/**",
         "data/reddit-top-issues/**",
       ],
