@@ -23,6 +23,11 @@ const siteMetadata = {
       url: `https://www.reddit.com/`,
       external: true,
     },
+    {
+      name: `Buzzing`,
+      url: `https://www.buzzing.cc/`,
+      external: true,
+    },
   ],
   localize: [
     {
@@ -58,6 +63,11 @@ const siteMetadata = {
           name: "RSS",
           url: "/zh-Hant/rss.xml",
           prefetch: false,
+        },
+        {
+          name: `Buzzing`,
+          url: `https://www.buzzing.cc/`,
+          external: true,
         },
       ],
     },
