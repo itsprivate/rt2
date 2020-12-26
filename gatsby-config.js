@@ -22,7 +22,6 @@ if (isDev) {
         "data/*-placeholder/1.json",
         "data/reddit-top/**",
         "data/reddit-top-issues/**",
-        "data/hn-placeholder/1.json",
       ],
     },
   });
