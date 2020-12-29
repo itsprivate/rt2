@@ -1,6 +1,6 @@
 const siteMetadata = {
-  siteUrl: "https://reddit.buzzing.cc",
-  author: `Reddit`,
+  siteUrl: "https://news.buzzing.cc",
+  author: `Buzzing`,
   locale: "zh",
   title: "Reddit 热门",
   shortTitle: "Reddit热门",
@@ -20,7 +20,7 @@ const siteMetadata = {
   social: [
     {
       name: `Reddit`,
-      url: `https://www.reddit.com/`,
+      url: `https://www.reddit.com`,
       external: true,
     },
     {
@@ -39,7 +39,7 @@ const siteMetadata = {
       menuLinks: [
         {
           name: "Weekly Selection",
-          url: "/issues",
+          url: "/en/issues",
         },
         {
           name: "RSS",
@@ -57,17 +57,12 @@ const siteMetadata = {
       menuLinks: [
         {
           name: "每週精選",
-          url: "/issues",
+          url: "/zh-Hant/issues",
         },
         {
           name: "RSS",
           url: "/zh-Hant/rss.xml",
           prefetch: false,
-        },
-        {
-          name: `Buzzing`,
-          url: `https://www.buzzing.cc/`,
-          external: true,
         },
       ],
     },
