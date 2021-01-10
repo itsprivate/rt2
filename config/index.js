@@ -1,6 +1,6 @@
 const siteMetadata = {
   siteUrl: "https://news.buzzing.cc",
-  author: `Buzzing`,
+  author: `Buzzing.cc`,
   locale: "zh",
   title: "Reddit 热门",
   shortTitle: "Reddit热门",
