@@ -19,6 +19,28 @@ const siteMetadata = {
       prefetch: false,
     },
   ],
+  subscriptions: [
+    {
+      name: "Telegram @Reddit热门",
+      url: "https://t.me/reddit_zh",
+      external: true,
+    },
+    {
+      name: "Twitter @buzzingcc",
+      url: "https://twitter.com/buzzingcc",
+      external: true,
+    },
+    {
+      name: "Telegram @buzzingcc",
+      url: "https://t.me/buzzingcc",
+      external: true,
+    },
+    {
+      name: "RSS",
+      url: "/rss.xml",
+      prefetch: false,
+    },
+  ],
   social: [
     {
       name: `Reddit`,
