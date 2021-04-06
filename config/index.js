@@ -75,6 +75,24 @@ const siteMetadata = {
         },
       ],
     },
+    {
+      locale: "ja",
+      title: "Reddit 人気の記事",
+      shortTitle: "Dev人気",
+      description: "人気のReddit記事を日本語で閲覧",
+      keywords: ["buzzing", "Reddit",],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+    }
   ],
 };
 
