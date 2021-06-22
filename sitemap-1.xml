@@ -124,6 +124,10 @@
 <url> <loc>https://reddit.buzzing.cc/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/tags/a-boring-dystopia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/tags/a-boring-dystopia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/a-boring-dystopia/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2624,6 +2628,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/reddit/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/reddit/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/reddit/page/282</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/tags/reddit/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/tags/reddit/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/reddit/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/tags/reddit/page/283</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/tags/sadcringe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/tags/sadcringe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/sadcringe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2796,6 +2804,14 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/Damnthatsinteresting/comments/n7m7w0/creating_a_realistic_nuclear_explosion_lamp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/Damnthatsinteresting/comments/n7m7w0/creating_a_realistic_nuclear_explosion_lamp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/Damnthatsinteresting/comments/n7m7w0/creating_a_realistic_nuclear_explosion_lamp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/Damnthatsinteresting/comments/n7m7w0/creating_a_realistic_nuclear_explosion_lamp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/MadeMeSmile/comments/n78mnc/at_the_age_of_14_my_daughter_attempted_to_take/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/MadeMeSmile/comments/n78mnc/at_the_age_of_14_my_daughter_attempted_to_take/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/MadeMeSmile/comments/n78mnc/at_the_age_of_14_my_daughter_attempted_to_take/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/MadeMeSmile/comments/n78mnc/at_the_age_of_14_my_daughter_attempted_to_take/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/worldnews/comments/n7j9qh/dozens_of_german_priests_will_defy_the_vatican/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/worldnews/comments/n7j9qh/dozens_of_german_priests_will_defy_the_vatican/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/worldnews/comments/n7j9qh/dozens_of_german_priests_will_defy_the_vatican/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4984,20 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/MadeMeSmile/comments/msdrjy/this_dogs_first_night_at_his_new_home_after_being/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/MadeMeSmile/comments/msdrjy/this_dogs_first_night_at_his_new_home_after_being/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/MadeMeSmile/comments/msdrjy/this_dogs_first_night_at_his_new_home_after_being/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/msdmez/dank_magician/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/msdmez/dank_magician/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/msdmez/dank_magician/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/msdmez/dank_magician/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/nextfuckinglevel/comments/msbgyk/this_guys_hockey_skills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/nextfuckinglevel/comments/msbgyk/this_guys_hockey_skills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/nextfuckinglevel/comments/msbgyk/this_guys_hockey_skills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/nextfuckinglevel/comments/msbgyk/this_guys_hockey_skills/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/pics/comments/msazp0/man_protesting_los_angeles_california/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/pics/comments/msazp0/man_protesting_los_angeles_california/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/pics/comments/msazp0/man_protesting_los_angeles_california/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/pics/comments/msazp0/man_protesting_los_angeles_california/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/facepalm/comments/msait8/a_good_cop_calls_out_the_absolute_bs_that_is/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/facepalm/comments/msait8/a_good_cop_calls_out_the_absolute_bs_that_is/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/facepalm/comments/msait8/a_good_cop_calls_out_the_absolute_bs_that_is/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/facepalm/comments/msait8/a_good_cop_calls_out_the_absolute_bs_that_is/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
