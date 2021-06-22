@@ -2796,6 +2796,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/aww/comments/n7aau0/this_is_what_happens_every_time_you_try_to_take_a/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/aww/comments/n7aau0/this_is_what_happens_every_time_you_try_to_take_a/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/aww/comments/n7aau0/this_is_what_happens_every_time_you_try_to_take_a/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/aww/comments/n7aau0/this_is_what_happens_every_time_you_try_to_take_a/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/cursedcomments/comments/n72mcf/cursed_lunch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/cursedcomments/comments/n72mcf/cursed_lunch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/cursedcomments/comments/n72mcf/cursed_lunch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/PublicFreakout/comments/mrze1o/kid_walks_into_hulk_hogans_beach_store_and_owns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/PublicFreakout/comments/mrze1o/kid_walks_into_hulk_hogans_beach_store_and_owns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/PublicFreakout/comments/mrze1o/kid_walks_into_hulk_hogans_beach_store_and_owns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/ms1eh3/the_teacher_believes_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/ms1eh3/the_teacher_believes_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/ms1eh3/the_teacher_believes_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/ms1eh3/the_teacher_believes_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
