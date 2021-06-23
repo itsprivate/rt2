@@ -2804,6 +2804,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/dankmemes/comments/n7nptw/basically_movies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/n7nptw/basically_movies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/n7nptw/basically_movies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/n7nptw/basically_movies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/WhitePeopleTwitter/comments/n7nttw/learning_is_hard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/WhitePeopleTwitter/comments/n7nttw/learning_is_hard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/WhitePeopleTwitter/comments/n7nttw/learning_is_hard/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/interestingasfuck/comments/msd80o/underwater_cliff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/interestingasfuck/comments/msd80o/underwater_cliff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/interestingasfuck/comments/msd80o/underwater_cliff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/funny/comments/msh0vv/confiscated_this_note_from_one_of_my_students/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/funny/comments/msh0vv/confiscated_this_note_from_one_of_my_students/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/funny/comments/msh0vv/confiscated_this_note_from_one_of_my_students/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/funny/comments/msh0vv/confiscated_this_note_from_one_of_my_students/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
