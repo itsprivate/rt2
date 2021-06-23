@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/WhitePeopleTwitter/comments/l4o1bd/this_shouldnt_be_a_thing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/WhitePeopleTwitter/comments/l4o1bd/this_shouldnt_be_a_thing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/WhitePeopleTwitter/comments/l4o1bd/this_shouldnt_be_a_thing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/WhitePeopleTwitter/comments/l4o1bd/this_shouldnt_be_a_thing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/news/comments/l4my5c/rudy_giuliani_sued_by_dominion_voting_systems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/news/comments/l4my5c/rudy_giuliani_sued_by_dominion_voting_systems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/news/comments/l4my5c/rudy_giuliani_sued_by_dominion_voting_systems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/nextfuckinglevel/comments/kirxim/when_youre_a_little_kid_you_plane_with_toy_planes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/nextfuckinglevel/comments/kirxim/when_youre_a_little_kid_you_plane_with_toy_planes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/nextfuckinglevel/comments/kirxim/when_youre_a_little_kid_you_plane_with_toy_planes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/WhitePeopleTwitter/comments/kim76s/amazon_supporting_small_businesses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/WhitePeopleTwitter/comments/kim76s/amazon_supporting_small_businesses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/WhitePeopleTwitter/comments/kim76s/amazon_supporting_small_businesses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/WhitePeopleTwitter/comments/kim76s/amazon_supporting_small_businesses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

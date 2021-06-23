@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/todayilearned/comments/o5uz6t/til_a_homeless_man_found_a_10_000_check_on_the/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/todayilearned/comments/o5uz6t/til_a_homeless_man_found_a_10_000_check_on_the/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/todayilearned/comments/o5uz6t/til_a_homeless_man_found_a_10_000_check_on_the/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/todayilearned/comments/o5uz6t/til_a_homeless_man_found_a_10_000_check_on_the/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/Unexpected/comments/o5jxsn/meeting_clients_need_in_every_possible_way/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/Unexpected/comments/o5jxsn/meeting_clients_need_in_every_possible_way/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/Unexpected/comments/o5jxsn/meeting_clients_need_in_every_possible_way/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -3996,10 +4000,6 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/funny/comments/n7oxkd/hard_way_to_drink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/funny/comments/n7oxkd/hard_way_to_drink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/funny/comments/n7oxkd/hard_way_to_drink/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/nextfuckinglevel/comments/n7p0bh/racing_the_london_tube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/nextfuckinglevel/comments/n7p0bh/racing_the_london_tube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/nextfuckinglevel/comments/n7p0bh/racing_the_london_tube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/nextfuckinglevel/comments/n7p0bh/racing_the_london_tube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
