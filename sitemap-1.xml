@@ -2808,6 +2808,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/aww/comments/n856mr/hell_wake_up_soon_and_throw_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/aww/comments/n856mr/hell_wake_up_soon_and_throw_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/aww/comments/n856mr/hell_wake_up_soon_and_throw_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/aww/comments/n856mr/hell_wake_up_soon_and_throw_it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/interestingasfuck/comments/n7saw1/cat_catches_a_bat_mid_air/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/interestingasfuck/comments/n7saw1/cat_catches_a_bat_mid_air/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/interestingasfuck/comments/n7saw1/cat_catches_a_bat_mid_air/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/BlackPeopleTwitter/comments/mspoye/a_dynamic_duo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/BlackPeopleTwitter/comments/mspoye/a_dynamic_duo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/BlackPeopleTwitter/comments/mspoye/a_dynamic_duo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

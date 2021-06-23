@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/worldnews/comments/msrq6p/alexey_navalny_in_critical_condition_with_risk_of/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/interestingasfuck/comments/msw3ot/diving_candle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/interestingasfuck/comments/msw3ot/diving_candle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/interestingasfuck/comments/msw3ot/diving_candle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/BlackPeopleTwitter/comments/lv8fzo/comply_or_die_is_not_legal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/BlackPeopleTwitter/comments/lv8fzo/comply_or_die_is_not_legal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/BlackPeopleTwitter/comments/lv8fzo/comply_or_die_is_not_legal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/dankmemes/comments/lvexxf/u_have_been_punished_with_10_years_of_bonk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/lvexxf/u_have_been_punished_with_10_years_of_bonk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/lvexxf/u_have_been_punished_with_10_years_of_bonk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/lvexxf/u_have_been_punished_with_10_years_of_bonk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
