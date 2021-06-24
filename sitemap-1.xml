@@ -352,6 +352,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/made-me-smile/page/12</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/made-me-smile/page/12</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/made-me-smile/page/12</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/tags/made-me-smile/page/13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/tags/made-me-smile/page/13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/made-me-smile/page/13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/tags/made-me-smile/page/13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/tags/minecraft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/tags/minecraft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/minecraft/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -2820,6 +2824,14 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/technology/comments/n8hmfa/poll_nearly_twothirds_of_americans_say_social/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/technology/comments/n8hmfa/poll_nearly_twothirds_of_americans_say_social/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/technology/comments/n8hmfa/poll_nearly_twothirds_of_americans_say_social/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/technology/comments/n8hmfa/poll_nearly_twothirds_of_americans_say_social/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/n8sxwc/he_do_be_shmovin_tho/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/n8sxwc/he_do_be_shmovin_tho/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/n8sxwc/he_do_be_shmovin_tho/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/n8sxwc/he_do_be_shmovin_tho/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/natureismetal/comments/n8j8f9/angler_fish_washed_ashore/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/natureismetal/comments/n8j8f9/angler_fish_washed_ashore/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/natureismetal/comments/n8j8f9/angler_fish_washed_ashore/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4988,16 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/HolUp/comments/mtd72y/neil_was_very_opinionated/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/HolUp/comments/mtd72y/neil_was_very_opinionated/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/HolUp/comments/mtd72y/neil_was_very_opinionated/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/HolUp/comments/mt8s4x/man_of_culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/HolUp/comments/mt8s4x/man_of_culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/HolUp/comments/mt8s4x/man_of_culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/HolUp/comments/mt8s4x/man_of_culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/IdiotsInCars/comments/mt0pu1/lady_in_white_suv_tries_to_bully_18wheeler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/IdiotsInCars/comments/mt0pu1/lady_in_white_suv_tries_to_bully_18wheeler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/IdiotsInCars/comments/mt0pu1/lady_in_white_suv_tries_to_bully_18wheeler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/IdiotsInCars/comments/mt0pu1/lady_in_white_suv_tries_to_bully_18wheeler/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/dankmemes/comments/mt7gfx/no_one_is_interrupting_this/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/mt7gfx/no_one_is_interrupting_this/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/mt7gfx/no_one_is_interrupting_this/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/mt7gfx/no_one_is_interrupting_this/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
