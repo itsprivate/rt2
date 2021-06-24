@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/kjhh0z/well_of_course_i_know_him/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/kjhh0z/well_of_course_i_know_him/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/kjhh0z/well_of_course_i_know_him/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/kjhh0z/well_of_course_i_know_him/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/Unexpected/comments/kjch0b/thats_a_pretty_sturdy_glass/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/Unexpected/comments/kjch0b/thats_a_pretty_sturdy_glass/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/Unexpected/comments/kjch0b/thats_a_pretty_sturdy_glass/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/nextfuckinglevel/comments/jyz5a5/14y_old_builds_manhattan_using_freestyle_lego/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/nextfuckinglevel/comments/jyz5a5/14y_old_builds_manhattan_using_freestyle_lego/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/nextfuckinglevel/comments/jyz5a5/14y_old_builds_manhattan_using_freestyle_lego/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/gaming/comments/jz1fpw/dreamed_of_having_a_psp_as_a_kid_made_it_true_at/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/gaming/comments/jz1fpw/dreamed_of_having_a_psp_as_a_kid_made_it_true_at/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/gaming/comments/jz1fpw/dreamed_of_having_a_psp_as_a_kid_made_it_true_at/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/gaming/comments/jz1fpw/dreamed_of_having_a_psp_as_a_kid_made_it_true_at/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
