@@ -2844,6 +2844,10 @@
 <url> <loc>https://reddit.buzzing.cc/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/tags/youseeingthisshit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/WhitePeopleTwitter/comments/n9uajh/scary_shit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/WhitePeopleTwitter/comments/n9uajh/scary_shit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/WhitePeopleTwitter/comments/n9uajh/scary_shit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/WhitePeopleTwitter/comments/n9uajh/scary_shit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/dankmemes/comments/n9s0ef/_/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/n9s0ef/_/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/n9s0ef/_/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/oddlysatisfying/comments/mu9e5m/round_and_round_it_goes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/oddlysatisfying/comments/mu9e5m/round_and_round_it_goes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/oddlysatisfying/comments/mu9e5m/round_and_round_it_goes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/assholedesign/comments/mu3bds/this_mcdonalds_menu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/assholedesign/comments/mu3bds/this_mcdonalds_menu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/assholedesign/comments/mu3bds/this_mcdonalds_menu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/assholedesign/comments/mu3bds/this_mcdonalds_menu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
