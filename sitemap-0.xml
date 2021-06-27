@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/o8nj8m/the_girl_stealer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/o8nj8m/the_girl_stealer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/o8nj8m/the_girl_stealer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/o8nj8m/the_girl_stealer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/aww/comments/o8jcql/she_sleeps_on_my_shoulder_every_morning_and_today/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/aww/comments/o8jcql/she_sleeps_on_my_shoulder_every_morning_and_today/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/aww/comments/o8jcql/she_sleeps_on_my_shoulder_every_morning_and_today/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -3996,10 +4000,6 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/naj53k/i_mean_you_dont_want_dirt_in_your_house_right/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/naj53k/i_mean_you_dont_want_dirt_in_your_house_right/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/naj53k/i_mean_you_dont_want_dirt_in_your_house_right/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/gifs/comments/na77c4/guy_puts_gopro_on_a_sushi_conveyor_belt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/gifs/comments/na77c4/guy_puts_gopro_on_a_sushi_conveyor_belt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/gifs/comments/na77c4/guy_puts_gopro_on_a_sushi_conveyor_belt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/gifs/comments/na77c4/guy_puts_gopro_on_a_sushi_conveyor_belt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
