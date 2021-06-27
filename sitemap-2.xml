@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/mvfsi1/just_to_have_someone_to_share_it_with/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/mvfsi1/just_to_have_someone_to_share_it_with/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/mvfsi1/just_to_have_someone_to_share_it_with/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/mvfsi1/just_to_have_someone_to_share_it_with/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/dankmemes/comments/mvcyu6/well_it_is_from_ages_499/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/mvcyu6/well_it_is_from_ages_499/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/mvcyu6/well_it_is_from_ages_499/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/mvcyu6/well_it_is_from_ages_499/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/PublicFreakout/comments/mv5yic/riding_by_the_cops_when_they_suddenly_pull_their/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/PublicFreakout/comments/mv5yic/riding_by_the_cops_when_they_suddenly_pull_their/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/PublicFreakout/comments/mv5yic/riding_by_the_cops_when_they_suddenly_pull_their/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4992,12 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/mildlyinteresting/comments/lx3ycc/the_fuzz_on_my_sock_looks_like_a_flamingo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/mildlyinteresting/comments/lx3ycc/the_fuzz_on_my_sock_looks_like_a_flamingo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/mildlyinteresting/comments/lx3ycc/the_fuzz_on_my_sock_looks_like_a_flamingo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/memes/comments/lxjyie/wanna_try_again/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/memes/comments/lxjyie/wanna_try_again/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/memes/comments/lxjyie/wanna_try_again/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/memes/comments/lxjyie/wanna_try_again/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/interestingasfuck/comments/lxg6is/golden_mouse_with_wavy_fur/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/interestingasfuck/comments/lxg6is/golden_mouse_with_wavy_fur/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/interestingasfuck/comments/lxg6is/golden_mouse_with_wavy_fur/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/interestingasfuck/comments/lxg6is/golden_mouse_with_wavy_fur/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
