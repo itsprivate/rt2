@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/wallstreetbets/comments/l69jz5/honorary_wsb_autist_award_goes_to_chamath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/wallstreetbets/comments/l69jz5/honorary_wsb_autist_award_goes_to_chamath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/wallstreetbets/comments/l69jz5/honorary_wsb_autist_award_goes_to_chamath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/wallstreetbets/comments/l69jz5/honorary_wsb_autist_award_goes_to_chamath/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/MadeMeSmile/comments/l68sts/i_dont_go_to_meeting_so_i_really_dont_have_anyone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/MadeMeSmile/comments/l68sts/i_dont_go_to_meeting_so_i_really_dont_have_anyone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/MadeMeSmile/comments/l68sts/i_dont_go_to_meeting_so_i_really_dont_have_anyone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/dankmemes/comments/kk68m5/how_powerful_will_i_become/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/dankmemes/comments/kk68m5/how_powerful_will_i_become/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/dankmemes/comments/kk68m5/how_powerful_will_i_become/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/MurderedByWords/comments/kk2bi6/why_cant_people_just_enjoy_the_holidays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/MurderedByWords/comments/kk2bi6/why_cant_people_just_enjoy_the_holidays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/MurderedByWords/comments/kk2bi6/why_cant_people_just_enjoy_the_holidays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/MurderedByWords/comments/kk2bi6/why_cant_people_just_enjoy_the_holidays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
