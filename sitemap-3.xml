@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://reddit.buzzing.cc/en/reddit/r/interestingasfuck/comments/lxubtn/this_carpet_is_based_off_of_aerial_photographs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/reddit/r/interestingasfuck/comments/lxubtn/this_carpet_is_based_off_of_aerial_photographs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/interestingasfuck/comments/lxubtn/this_carpet_is_based_off_of_aerial_photographs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/interestingasfuck/comments/lxubtn/this_carpet_is_based_off_of_aerial_photographs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/en/reddit/r/MurderedByWords/comments/lxu06i/10_to_clean_the_bathroom/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/reddit/r/MurderedByWords/comments/lxu06i/10_to_clean_the_bathroom/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/MurderedByWords/comments/lxu06i/10_to_clean_the_bathroom/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -4996,8 +5000,4 @@
 <url> <loc>https://reddit.buzzing.cc/reddit/r/wallstreetbets/comments/l6popa/hooray_for_charles_payne_the_shorts_have_had/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/wallstreetbets/comments/l6popa/hooray_for_charles_payne_the_shorts_have_had/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://reddit.buzzing.cc/ja/reddit/r/wallstreetbets/comments/l6popa/hooray_for_charles_payne_the_shorts_have_had/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/en/reddit/r/wallstreetbets/comments/l6wu59/upvote_so_everyone_sees_we_got_support/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/reddit/r/wallstreetbets/comments/l6wu59/upvote_so_everyone_sees_we_got_support/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/zh-Hant/reddit/r/wallstreetbets/comments/l6wu59/upvote_so_everyone_sees_we_got_support/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://reddit.buzzing.cc/ja/reddit/r/wallstreetbets/comments/l6wu59/upvote_so_everyone_sees_we_got_support/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
